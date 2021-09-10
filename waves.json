@@ -1,0 +1,6 @@
+{
+"name": "Waves",
+"icons": {
+	"Waves": {"description": "WaveIcon", "url": " data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAABHklEQVRoge2VP0oDQRhH37cqWsTcQLyFCoFsCkGtE6ws9Ar2qTyAR0hjJUmfaGMigugpxBuIhTYzFgmsLhmzoxv/wO+Vw7dvZ4aBB0KIf41FTXevNzF3hCcF1iarj8AVzjrs1+9+1EPRA/RGNbxvAzszJgeYndCs38zV847wAc5uqyy/1LDkGPz2LNEHPJfgT3ldGW+gDM/B1tO0kfABukMf9bN500qn7jX5guoCbBfnVllaqJK4vfFN/Y5nMWI29C77QL+E9x3rAT5/Qs/AA9gQcx2ajfsiQs5HGyQcgk+B9cnq9z2ttFLoOyHiUIlzqMRBj0qcoRKrxEKUh0qcQyUOelTiDJVYJRaiPFTiHCpx0KMSZ6jEKrEQQvwZ3gBChpjk9RmFhQAAAABJRU5ErkJggg=="}
+	}
+}
